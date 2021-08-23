@@ -24,7 +24,7 @@ jsonschema==3.0.0a3
 jupyter-client==5.2.4
 jupyter-core==4.4.0
 jupyterhub==0.9.4
-jupyterlab==0.34.9
+jupyterlab==1.2.21
 jupyterlab-launcher==0.13.1
 Mako==1.0.7
 MarkupSafe==1.1.0
