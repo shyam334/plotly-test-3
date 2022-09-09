@@ -23,7 +23,7 @@ Jinja2==2.10
 jsonschema==3.0.0a3
 jupyter-client==5.2.4
 jupyter-core==4.4.0
-jupyterhub==0.9.4
+jupyterhub==1.5.0
 jupyterlab==0.34.9
 jupyterlab-launcher==0.13.1
 Mako==1.0.7
